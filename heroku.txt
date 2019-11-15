@@ -1,0 +1,31 @@
+heroku create : 
+
+
+
+git remote -v: kieme tra ket noi
+
+git remote rm origin : Xoas branch origin 
+heroku git:remote -a newname   Xoas ten mien ma tao moi
+
+
+git add . 
+git push heroku master
+
+
+Doi ten mien 
+$ git remote rm heroku
+
+$ heroku git:remote -a cuongcuong :
+$ git remote -v:  kiem tra xong
+
+Data on Cloud - using workbench
+
+Username: vGtpXaRpiC
+
+Database name: vGtpXaRpiC
+
+Password: gbuYrXNTbl
+
+Server/Hostname: remotemysql.com
+
+Port: 3306
